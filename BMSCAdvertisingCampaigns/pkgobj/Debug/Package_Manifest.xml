@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="525b80b5-ae03-4788-94d0-efb870e536cc" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="BMSCAdvertisingCampaigns.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="BMSCAdvertisingCampaigns, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9ab3eaedde425a0b" Namespace="BMSCAdvertisingCampaigns.WPAdvertisingA" TypeName="*" />
+        <SafeControl Assembly="BMSCAdvertisingCampaigns, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9ab3eaedde425a0b" Namespace="BMSCAdvertisingCampaigns.WPAdvertisingRedirectA" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="BMSCAdvertisingCampaigns_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

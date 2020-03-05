@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Solución que permite la parametrización y publicación de capañas publicitarias del Banco." Id="8c182e80-9d9f-41d1-a884-a7e84b15790d" Scope="Site" Title="BMSC Campañas Publicitarias">
+  <ElementManifests>
+    <ElementManifest Location="WPAdvertisingA\Elements.xml" />
+    <ElementFile Location="WPAdvertisingA\WPAdvertisingA.webpart" />
+    <ElementManifest Location="WPAdvertisingRedirectA\Elements.xml" />
+    <ElementFile Location="WPAdvertisingRedirectA\WPAdvertisingRedirectA.webpart" />
+  </ElementManifests>
+</Feature>

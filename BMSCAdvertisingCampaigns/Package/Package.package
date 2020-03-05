@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="525b80b5-ae03-4788-94d0-efb870e536cc" solutionId="525b80b5-ae03-4788-94d0-efb870e536cc" resetWebServer="false" sharePointProductVersion="15.0" name="BMSCAdvertisingCampaigns" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="11ca8b5b-9c74-4bed-9cc6-74aaddfd861d" />
+  </features>
+</package>

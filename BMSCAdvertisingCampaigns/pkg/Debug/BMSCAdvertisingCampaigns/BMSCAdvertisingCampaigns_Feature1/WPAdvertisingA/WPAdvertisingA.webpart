@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="BMSCAdvertisingCampaigns.WPAdvertisingA.WPAdvertisingA, BMSCAdvertisingCampaigns, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9ab3eaedde425a0b" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Campaña Publicitaria</property>
+        <property name="Description" type="string">Campaña Publicitaria BMSC</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>
